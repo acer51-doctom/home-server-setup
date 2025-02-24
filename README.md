@@ -19,7 +19,7 @@
 │   │   └── server_app.py
 │   └── README.MD
 ├── LICENSE
-└── README.md ```
+└── README.md```
 
 ## WARNING!
 Before executing either the python or executable, make sure to resolve dependencies!!!!
