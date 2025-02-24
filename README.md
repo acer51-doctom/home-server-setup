@@ -3,28 +3,3 @@
 
 
 ## Structure
-
-`project-root/
-│
-├── src/
-│   ├── index.js
-│   ├── components/
-│   │   ├── Header.js
-│   │   └── Footer.js
-│   └── styles/
-│       ├── main.css
-│       └── variables.css
-│
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-│
-├── tests/
-│   ├── unit/
-│   │   └── example.test.js
-│   └── integration/
-│       └── example.test.js
-│
-├── .gitignore
-├── package.json
-└── README.md`
