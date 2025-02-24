@@ -9,7 +9,17 @@
 
 ## File Structure
 
-Later.
+```\home-server-setup\
+├── src\
+│   ├── client\
+│   │   └── client_app.py
+│   ├── common\
+│   │   └── setup.py
+│   ├── server\
+│   │   └── server_app.py
+│   └── README.MD
+├── LICENSE
+└── README.md```
 
 ## WARNING!
 Before executing either the python or executable, make sure to resolve dependencies!!!!
