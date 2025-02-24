@@ -29,4 +29,4 @@ Before executing either the python or executable, make sure to resolve dependenc
 Any contributions are welcome here.
 
 Clone the repo, make a new branch named what you wanna put in the code
-<br>
+<br> Pull request once finished.
