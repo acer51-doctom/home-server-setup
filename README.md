@@ -1,10 +1,10 @@
 # home-server-setup
  Python scripts to help you make your first home server.
- (First project I have ever made)
+ <br>(First real project I have ever made)
 
  Built and written by AI.
- Thank you to the creators of DeepSeek and ChatGPT.
- (Project specially made to test out AI powers. Use in safe environment.)
+ <br>Thank you to the creators of DeepSeek and ChatGPT.
+ <br>(Project specially made to test out AI powers. Use in safe environment.)
 
 
 ## File Structure
@@ -20,7 +20,13 @@
 │   └── README.MD
 ├── LICENSE
 └── README.md
-
 ```
+
 ## WARNING!
 Before executing either the python or executable, make sure to resolve dependencies!!!!
+
+## Contributions
+Any contributions are welcome here.
+
+Clone the repo, make a new branch named what you wanna put in the code
+<br>
