@@ -6,6 +6,8 @@
  <br>Thank you to the creators of DeepSeek and ChatGPT.
  <br>(Project specially made to test out AI powers. Use in safe environment.)
 
+ Currently only available on Windows (Client and Server)
+
 
 ## File Structure
 
@@ -47,4 +49,4 @@ Once finished reading all of this, read [the following](/docs/tutorial.md)
 [^1]: You can compile them by either using `auto-py-to-exe` or `pyinstaller`. Install them with `pip`. <br>
 **USAGE:** <br>
 If you prefer GUIs, install `auto-py-to-exe` <br>
-If you prefer the Command Prompt or Terminal, use `pyinstaller`.
+If you prefer the Command Prompt, use `pyinstaller`.
